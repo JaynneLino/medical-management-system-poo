@@ -14,7 +14,7 @@ Final project developed for the **ATEC Data Science** course. This application s
 
 ### 📖 How to run
 1. Clone the repository.
-2. Run `python main.py` (ou o nome do seu arquivo principal).
+2. Run `medical_clinic_final_project.py`.
 
 ### Link ATEC
 
