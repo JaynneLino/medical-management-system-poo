@@ -1,35 +1,20 @@
-# Enunciado: Sistema de Gestão de Consultório Médico
+# Medical Management System (Python OOP) 🩺
 
-Objetivo:
-Desenvolver uma aplicação de consola em Python, utilizando os princípios da Programação Orientada por Objetos (POO), para simular a gestão de um consultório médico. A aplicação deve permitir o registo de médicos, pacientes, marcação de consultas e emissão de um relatório de agenda diária.
+Final project developed for the **ATEC Data Science** course. This application simulates a clinic management system, focusing on **Object-Oriented Programming (OOP)** principles.
 
-## Funcionalidades obrigatórias:
+### 🚀 Features
+- **Registration:** Doctors (specialty, license) and Patients (DOB, ID).
+- **Scheduling:** Intelligent appointment booking with time-conflict validation.
+- **Reporting:** Daily agenda listings ordered by time.
+- **Export:** Generation of text files with scheduled appointments.
 
-### Registar Médicos
+### 🛠️ Tech Stack
+- **Language:** Python 3
+- **Concepts:** Classes, Inheritance, Encapsulation, and File I/O.
 
-* _Nome_
-* _Especialidade_
-* _Número da cédula profissional._
-**Registar Pacientes**
-* _Nome_
-* _Data de nascimento_
-* _Número do cartão de cidadão._
-
-### Marcar Consultas
-
-* _Associar um médico e um paciente a uma data e hora específica._
-* _Garantir que o médico não tem duas consultas marcadas ao mesmo tempo._
-
-### Listagens
-
-* _Listar Consultas do Dia_
-* _Mostrar todas as consultas agendadas para uma data específica, ordenadas por hora._
-* _Listar Médicos e Pacientes_
-* _Listagens completas com todos os dados._
-
-### Exportar para ficheiro as consultas para text
-
-### Trabalho final - Jaynne Lino
+### 📖 How to run
+1. Clone the repository.
+2. Run `python main.py` (ou o nome do seu arquivo principal).
 
 ### Link ATEC
 
